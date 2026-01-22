@@ -1,4 +1,6 @@
-# Skinalyze - Analyze Your Skin
+# (1st Place) HackKnight Fall 2025 Project 🎉🏆
+
+> Skinalyze - Most Popular Vote Track HackKnight Fall '25
 Privacy-first skin analysis application powered by AI and Python OpenCV image processing.
 
 ## 🏗️ Architecture
